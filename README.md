@@ -11,7 +11,7 @@ The net salary is calculated by deducting the PAYE, NSSF and NHIF from the gross
 ## Contact
 my contact martin.mwangi01@student.moringaschool.com
 ## Installation
-To install git clone https://github.com/martinmwas254/Week-1-Code-Challenge.git in the terminal and run the html file in a browser window.
+To install git clone git@github.com:martinmwas254/week-1-code-challenge.git in the terminal and run the html file in a browser window.
 ## License
 MIT License
 
